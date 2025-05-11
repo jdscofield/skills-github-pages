@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: CS 499 Capstone Project
 ---
 
